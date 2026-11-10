@@ -1,0 +1,26 @@
+{
+  "name": "Quizuruto",
+  "short_name": "Quizuruto",
+  "description": "Quiz de Naruto: 10 perguntas, 15 segundos por resposta e pontos pelo seu conhecimento.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FF7420",
+  "theme_color": "#FF7420",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
